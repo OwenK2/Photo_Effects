@@ -4,3 +4,4 @@ testimgs
 *.png
 *.jpg
 *.bmp
+.DS_Store
