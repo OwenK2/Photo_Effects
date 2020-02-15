@@ -2,11 +2,11 @@
 A c++ CLI that allows you to apply various effects to photos. See below for options.
 
 ## Usage
-imgstack mode [-o outputFile | -m] files
+imgstack mode [-o outputFile | -m # # #] files
 
 **mode** see below
 
-**-o outputFile**: the name of the file(s) to create use .png, .jpg, or .bmp
+**-o outputFile**: the name of the file(s) to create use .png, .jpg, or .bmp.
 As a side note some effects create 1 picture, others create a picture for each element in the stack and are named n_outputFile where n is their location in the stack
 
 **-m # # #**: define 3 floats [0-1] to multiply each pixel's RGB value to respectively (used only for colormask mode); defaults to 1 1 1
