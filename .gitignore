@@ -1,0 +1,6 @@
+dist
+build
+testimgs
+*.png
+*.jpg
+*.bmp
