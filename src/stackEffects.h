@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <string>
 #include <cmath>
-#define CHANNELS 3
+#define CHANNELS 3 //Color channels
 typedef unsigned char byte;
 
 class ImageStack {
